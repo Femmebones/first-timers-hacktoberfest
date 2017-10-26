@@ -387,3 +387,8 @@ Bio: Aspiring to help with local trail/park maintenance and conservation project
 Place: Chattanooga, TN
 Github: (https://github.com/cammer87)
 Instagram: @caleb_math
+
+Name: Lita 
+Bio: New to GitHub  
+Place: Los Angeles, CA
+Github: [Femmebones](https://github.com/Femmebones/)  
